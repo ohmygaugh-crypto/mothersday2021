@@ -1,0 +1,27 @@
+{
+
+
+  "scripts": {
+
+
+    "start": "node ./dist/server.js"
+
+
+  },
+
+
+  "dependencies": {
+
+
+    "aframe": "^1.2.0",
+
+
+    "express": "^4.17.1"
+
+
+  }
+
+
+}
+
+
